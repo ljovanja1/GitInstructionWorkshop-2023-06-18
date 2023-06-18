@@ -27,6 +27,8 @@ Tip: Setup will add Visual Studio Code to your %PATH%, so from the console you c
 git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
 
+'sdvsvds
+
 ## Создание и базовая работа с локальным репозиторием.
 
 ### Что такое репозиторий и инструкция по созданию локальных репозиториев.
